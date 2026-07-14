@@ -2,7 +2,7 @@
 
 **`Analista de QA`**
 
-Chamo-me Gabrielli da Silva Muniz Santos, tenho 26 anos e sou natural de Três Lagoas, Mato Grosso do Sul. Concluí o ensino médio no IFMS, com o curso técnico em Informática. Após alguns anos, retomei os estudos e concluí o bootcamp da TripleTen como Analista de QA. Com esta paixão pela tecnologia e um grande entusiasmo para crescer profissionalmente, venho partilhar os meus projetos — baseados nos conhecimentos adquiridos em Python, SQL, Jira, Postman, Figma, entre outros —, com o intuito de garantir sempre a excelência em produtos digitais. Confiança e resiliência também é o que tenho para oferecer face a todos os desafios profissionais futuros.
+Chamo-me Gabrielli da Silva Muniz Santos, tenho 26 anos e sou natural de Três Lagoas, Mato Grosso do Sul. Concluí o ensino médio no IFMS, com o curso técnico em Informática. Após alguns anos, retomei os estudos e concluí o bootcamp da TripleTen como Analista de QA. Com esta paixão pela tecnologia e um grande entusiasmo para crescer profissionalmente, venho partilhar os meus projetos baseados nos conhecimentos adquiridos em Testes Funcionais, Testes Manuais, Automação de Testes, Casos de Teste, Testes de API (Postman), SQL e SDLC. Experiência em execução de testes automatizados utilizando Python, Selenium WebDriver e PyTest, além de testes em aplicações Web e Mobile. Familiaridade com Jira, documentação de bugs, planejamento de testes. Tenho por intuito garantir sempre a excelência em produtos digitais. Confiança e resiliência também é o que tenho para oferecer face a todos os desafios profissionais futuros.
 
 🤖 Linguagens e Tecnologias 
 
